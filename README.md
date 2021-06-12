@@ -188,7 +188,7 @@
     - 대리점은 반납된 차량을 회수한다 (ok) 
     
 
-### 모델 수정
+### 모델 수정 : 수정 필요내역 의견주시면 감사하겠습니다.
 
 ![image](https://user-images.githubusercontent.com/487999/79684176-4e4c7800-826a-11ea-8deb-b7b053e5d7c6.png)
     
