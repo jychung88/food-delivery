@@ -123,7 +123,7 @@
 
 
 ## Event Storming 결과  수정
-* MSAEz 로 모델링한 이벤트스토밍 결과:  http://msaez.io/#/storming/nZJ2QhwVc4NlVJPbtTkZ8x9jclF2/every/a77281d704710b0c2e6a823b6e6d973a/-M5AV2z--su_i4BfQfeF
+* MSAEz 로 모델링한 이벤트스토밍 결과:  http://www.msaez.io/#/storming/U0bzsSn93uN7NxmqmG8mL6n0vz53/share/1d5fca6c8eb5408a3560d9c2e51c78d7
 
 
 ### 이벤트 도출
